@@ -22,7 +22,7 @@ func main() {
 	r := gin.Default()
 	r.Use(gita.HandleFunc())
 
-    // Define routes
+	// Define routes
 
 	r.Run(":8080")
 }
