@@ -12,7 +12,7 @@ go get -u github.com/neverbeenthisweeb/gita
 
 2. Import in your code
 
-```
+```go
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/neverbeenthisweeb/gita"
